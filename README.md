@@ -1,5 +1,4 @@
 <h4>👋안녕하세요. 도전을 두려워 하지 않는 Java개발자 Johanan입니다.👋</h4>
-<hr/>
 <h5>
 - 금융 쪽에 경력 및 관심이 있어 프로그래밍 언어 공부와 경제 관련 공부를 같이 하고 있습니다. 
 </h5>
@@ -13,7 +12,6 @@
 <h3>                           </h3>
 
 <h4>My Tech Stack📚</h4>
-<hr/>
 
 <h5>Programming Languages & Tools</h5>
 <p>
