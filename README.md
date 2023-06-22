@@ -1,4 +1,12 @@
-### Hi there 👋
+Gitbhub에 방문해주셔서 감사합니다👋
+
+- 도전을 두려워 하지 않는 JAVA개발자 Johanan입니다.
+- 금융 쪽에 경력 및 관심이 있어 프로그래밍 언어 공부와 경제 관련 공부를 같이 하고 있습니다. 
+- 계속 발전하는 모습 보여드리겠습니다.
+- 모두 화이팅😄
+
+
+<h4>My Tech Stack</h4>
 
 <!--
 **Johanan-Dream/Johanan-Dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
