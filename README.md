@@ -5,7 +5,7 @@
 - 계속 발전하는 모습 보여드리겠습니다.
 - 모두 화이팅이에요😄~!
 
-<p>
+
 <h3>My Tech Stack📚</h3>
 <u></u>
 <p>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 </p>
-</p>
+
 <!--
 **Johanan-Dream/Johanan-Dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
