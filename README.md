@@ -1,16 +1,17 @@
-👋제 Gitbhub에 방문해주셔서 감사합니다👋
+<h3>👋안녕하세요. 도전을 두려워 하지 않는 Java개발자 Johanan입니다.👋</h3>
+<hr/>
 
-- 도전을 두려워 하지 않는 JAVA개발자 Johanan입니다.
+- 도전을 두려워 하지 않는 Java개발자 Johanan입니다.
 - 금융 쪽에 경력 및 관심이 있어 프로그래밍 언어 공부와 경제 관련 공부를 같이 하고 있습니다. 
 - 계속 발전하는 모습 보여드리겠습니다.
-- 모두 화이팅이에요😄~!
+- Gitbhub에 방문해주셔서 감사합니다😄
 
 
 <h3>My Tech Stack📚</h3>
 <hr/>
 
 <p>
-Programming Languages & Tools 
+<p><h2>Programming Languages & Tools</h2></p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -22,6 +23,7 @@ Programming Languages & Tools
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 
+<p><h2>Tools</h2></p>
 <p>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -32,7 +34,6 @@ Programming Languages & Tools
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
-<h3>Me💜</h3>
 <hr/>
 
 
