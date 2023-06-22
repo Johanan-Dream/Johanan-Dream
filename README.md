@@ -8,7 +8,9 @@ Gitbhub에 방문해주셔서 감사합니다👋
 
 <h3>My Tech Stack</h3>
 ![HTML5]
+<p>
 <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+</p>
 
 [CSS3]
 [JavaScript]
