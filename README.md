@@ -6,7 +6,7 @@
 - 모두 화이팅이에요😄~!
 
 <p>
-<h2>My Tech Stack📚</h2>
+<h3>My Tech Stack📚</h3>
 </p>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
